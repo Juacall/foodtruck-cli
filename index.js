@@ -1,3 +1,12 @@
+/**
+ * I created this project because i don't have a lot of node js knowledge on my finger tips.
+ * I also have never created a cli and thought it would be fun. Helps me understand how some
+ * of the things I use are created. I try to understand a little of bit of everyones jobs because
+ * as a Software Engineer and Computer Scientist i believe being able to tackle a problem even if i
+ * don't know how to do it. Being able to at least understand whats going on.
+ *
+ */
+
 const neatCsv = require("neat-csv");
 const fs = require("fs");
 const geolib = require("geolib");
