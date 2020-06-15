@@ -119,7 +119,7 @@ function askToChooseTruckQuestion(query) {
         default:
           rl.close();
           console.log("Invalid choice try again!!!");
-          asktoChooseQuestion("");
+          askToChooseTruckQuestion("");
           break;
       }
     })
